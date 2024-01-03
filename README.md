@@ -30,7 +30,7 @@ To compile and execute the programme, you need a C++ compiler and a runtime envi
 
 ## Example usage
 
-```bash
+```
 Simple C++ calculator with history saved in 'info.txt'
 Enter the first number: 10
 Select the arithmetic action (+, -, /, *): +
