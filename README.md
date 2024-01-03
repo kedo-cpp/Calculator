@@ -21,7 +21,7 @@ To compile and execute the programme, you need a C++ compiler and a runtime envi
 2. Run the compiled programme:
 
    ```bash
-   ./calculator
+   ./calculator.exe
    ```
 
 3. Enter the first number, select the arithmetic action (+, -, /, *) and enter the second number.
